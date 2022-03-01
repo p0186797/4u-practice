@@ -1,4 +1,4 @@
-# 4u-review
+# 4u-practice
 
 Create a file called **wordy.py** and upload it to this repository. In the file write the below functions:
 
